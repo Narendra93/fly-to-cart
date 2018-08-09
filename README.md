@@ -1,5 +1,5 @@
 # Fly to Cart
-Adding items to cart with animation
+An React.js demo of adding items to cart with fly to cart animation
 
 # Changelog
 
